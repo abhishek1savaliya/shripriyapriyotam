@@ -2,7 +2,7 @@ const ContactPage = () => {
     return (
       <div className="min-h-screen bg-gray-100 mt-3 mb-3 flex items-center justify-center">
         <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
-          <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Contact Me</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Contact</h2>
           <form>
             <div className="mb-4">
               <label className="block text-gray-700 font-semibold mb-2" htmlFor="firstName">
