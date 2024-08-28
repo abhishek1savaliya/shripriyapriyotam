@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="flex flex-col items-center md:items-start mb-4 md:mb-0">
                 <p className="text-lg font-semibold mb-2">Contact Information</p>
                 <p className="mb-2">Email:</p>
-                <a href="mailto:customersupport@shripriyapriyotam.com" className="text-blue-400 hover:underline">
-                    customersupport@shripriyapriyotam.com
+                <a href="mailto:customersupport@shripriyapriyotam.in" className="text-blue-400 hover:underline">
+                    customersupport@shripriyapriyotam.in
                 </a>
             </div>
             {/* Address */}
